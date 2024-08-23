@@ -6,7 +6,7 @@ import com.micro.claim.model.AdminSignup;
 
 public interface AdminService 
 {
-	public void addAdmin(AdminSignup admin);
+	public AdminSignup addAdmin(AdminSignup admin);
 	 
 	public List<AdminSignup> getallAdmins();
 

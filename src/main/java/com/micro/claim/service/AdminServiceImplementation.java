@@ -18,9 +18,10 @@ public class AdminServiceImplementation implements AdminService
 	}
 
 	@Override
-	public void addAdmin(AdminSignup admin) 
+	public AdminSignup addAdmin(AdminSignup admin) 
 	{
 		repo.save(admin);
+		return admin;
 	}
 
 	@Override

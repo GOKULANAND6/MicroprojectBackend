@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da6c8e64.css",
+    "main.js": "/static/js/main.e6ead3f1.js",
+    "static/js/453.d4932990.chunk.js": "/static/js/453.d4932990.chunk.js",
+    "static/media/video.mp4": "/static/media/video.735133e892b147a0853b.mp4",
+    "static/media/honda.png": "/static/media/honda.83446013beb481a0e559.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/thar.jpeg": "/static/media/thar.74a9f7f96857a1b6d0d0.jpeg",
+    "static/media/logo.jpg": "/static/media/logo.846e8f56725fb2f826e7.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/health.jpg": "/static/media/health.6c6f99b3b8cc8e0c7661.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.da6c8e64.css.map": "/static/css/main.da6c8e64.css.map",
+    "main.e6ead3f1.js.map": "/static/js/main.e6ead3f1.js.map",
+    "453.d4932990.chunk.js.map": "/static/js/453.d4932990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6c8e64.css",
+    "static/js/main.e6ead3f1.js"
+  ]
+}
